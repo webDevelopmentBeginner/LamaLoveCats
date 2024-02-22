@@ -5,7 +5,9 @@ header {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  position: relative;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
 }
 
 
