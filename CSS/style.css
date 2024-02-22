@@ -100,9 +100,8 @@ div li:nth-child(even) img:active {
 
 .grid {
   grid-template-columns: 60% 40%;
-
+  justify-content: center;
   display: grid;
-  align-items: center;
   align-items: center;
   row-gap: 2%;
 }
